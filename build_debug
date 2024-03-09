@@ -1,0 +1,4 @@
+#!/bin/bash
+cmake -S . -B cmake-build-debug -G "Unix Makefiles"
+cd cmake-build-debug
+make

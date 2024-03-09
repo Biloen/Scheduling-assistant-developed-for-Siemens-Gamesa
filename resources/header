@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel">
+   <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+      <Author>A306</Author>
+      <Keywords>C_Unrestricted</Keywords>
+      <LastAuthor>None</LastAuthor>
+      <TotalTime>0</TotalTime>
+      <Version>16.00</Version>
+   </DocumentProperties>
+   <CustomDocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+      <Document_x0020_Confidentiality dt:dt="string">Unrestricted</Document_x0020_Confidentiality>
+      <MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_Enabled dt:dt="string">true</MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_Enabled>
+      <MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_SetDate dt:dt="string">2020-10-19T13:05:06Z</MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_SetDate>
+      <MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_Method dt:dt="string">Standard</MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_Method>
+      <MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_Name dt:dt="string">6013f521-439d-4e48-8e98-41ab6c596aa7</MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_Name>
+      <MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_SiteId dt:dt="string">12f921d8-f30d-4596-a652-7045b338485a</MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_SiteId>
+      <MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_ActionId dt:dt="string" />
+      <MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_ContentBits dt:dt="string">0</MSIP_Label_6013f521-439d-4e48-8e98-41ab6c596aa7_ContentBits>
+      <ContentTypeId dt:dt="string">0x0101004DC71A830C59D342BFA275E18928B23C</ContentTypeId>
+   </CustomDocumentProperties>
+   <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+      <AllowPNG />
+   </OfficeDocumentSettings>
+   <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+      <WindowHeight>12165</WindowHeight>
+      <WindowWidth>28800</WindowWidth>
+      <WindowTopX>32767</WindowTopX>
+      <WindowTopY>32767</WindowTopY>
+      <TabRatio>904</TabRatio>
+      <ProtectStructure>False</ProtectStructure>
+      <ProtectWindows>False</ProtectWindows>
+   </ExcelWorkbook>
+   <Styles>
+      <Style ss:ID="Default" ss:Name="Normal">
+         <Alignment ss:Vertical="Bottom" />
+         <Borders />
+         <Font ss:FontName="Arial" />
+         <Interior />
+         <NumberFormat />
+         <Protection />
+      </Style>
+      <Style ss:ID="sCol">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" />
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+      </Style>
+      <Style ss:ID="ts0" ss:Name="Dag (V)">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000" />
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+      </Style>
+      <Style ss:ID="ts1" ss:Name="Dag (H)">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000" />
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+      </Style>
+      <Style ss:ID="ts2" ss:Name="Vagt">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+      </Style>
+      <Style ss:ID="ts4" ss:Name="Weekend dag (V)">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000" />
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+         <Interior ss:Color="#D9D9D9" ss:Pattern="Solid" />
+      </Style>
+      <Style ss:ID="ts5" ss:Name="Weekend dag (H)">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000" />
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+         <Interior ss:Color="#D9D9D9" ss:Pattern="Solid" />
+      </Style>
+      <Style ss:ID="ts6" ss:Name="Weekend vagt">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+         <Interior ss:Color="#D9D9D9" ss:Pattern="Solid" />
+      </Style>
+      <Style ss:ID="ts34" ss:Name="Ferie vagt">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+         <Interior ss:Color="#FFC000" ss:Pattern="Solid" />
+      </Style>
+      <Style ss:ID="ts24" ss:Name="SH dag (V)">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000" />
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+         <Interior ss:Color="#FFFF00" ss:Pattern="Solid" />
+      </Style>
+      <Style ss:ID="ts25" ss:Name="SH dag (H)">
+         <Alignment ss:Horizontal="Left" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" ss:Color="#000000" />
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+         <Interior ss:Color="#FFFF00" ss:Pattern="Solid" />
+      </Style>
+      <Style ss:ID="ts10" ss:Name="Fjernet Vagt">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+         <Interior ss:Color="#00B050" ss:Pattern="Solid" />
+      </Style>
+      <Style ss:ID="ts18" ss:Name="Tilføjet Vagt">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" />
+         <Interior ss:Color="#0070C0" ss:Pattern="Solid" />
+      </Style>
+      <Style ss:ID="tsHeading">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Center" />
+         <Borders>
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2" />
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2" />
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2" />
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="9" ss:Color="#000000" ss:Bold="1" />
+      </Style>
+      <Style ss:ID="tsSheetTitle">
+         <Alignment ss:Horizontal="Center" ss:Vertical="Top" />
+         <Borders>
+            <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2" />
+            <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2" />
+            <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2" />
+            <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2" />
+         </Borders>
+         <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="30" ss:Bold="1" />
+      </Style>
+   </Styles>
+   <Worksheet ss:Name="Calendar">
+      <Table ss:ExpandedColumnCount="54" ss:ExpandedRowCount="118" x:FullColumns="1" x:FullRows="1" ss:StyleID="sCol" ss:DefaultRowHeight="12">
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="45.75" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="96" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="27.75" ss:Span="4" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="96" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="27.75" ss:Span="1" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="27.75" ss:Span="1" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="45.75" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="96" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="27.75" ss:Span="4" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="96" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="27.75" ss:Span="4" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="96" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="27.75" ss:Span="4" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="96" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="27.75" ss:Span="4" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="94.5" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="39.75" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="94.5" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="39.75" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="63" ss:Span="1" />
+         <Column ss:StyleID="sCol" ss:Width="60.75" />
+         <Column ss:StyleID="sCol" ss:AutoFitWidth="0" ss:Width="39.75" />
+         <Column ss:StyleID="sCol" ss:Width="65.25" />
